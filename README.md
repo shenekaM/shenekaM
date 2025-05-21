@@ -5,7 +5,7 @@
 - <b>Set Up a Dummy Active Directory Server on a Windows Instance (AlgoExpert)</b>
   - [Dummy Active Director](https://github.com/shenekaM/ActiveDirectoryServerSetUp/blob/main/README.md)
 - <b> Create Users and Groups on AD to Show User Management</b>
-  - [Users and Groups on AD]() 
+  - [Users and Groups on AD](https://github.com/shenekaM/UsersandGroupsinAD/tree/main) 
 - <b>Implement a Password Policy & Account Lockout Rules</b>
   - [Password Policy & Account Lockout]()
     
